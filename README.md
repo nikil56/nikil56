@@ -27,10 +27,10 @@ an NLP-powered project involving SBert, text preprocessing, boilerplate removal,
 `Python` `C` `Java` `C#` `JavaScript`
 
 **Frontend:**  
-`HTML` `CSS` `Bootstrap` `Tailwind`
+`HTML` `CSS` `Bootstrap` 
 
 **Backend / Frameworks:**  
-`Node.js` `Express.js` `Flask`
+`Node.js` `Express.js` 
 
 **Databases:**  
 `MongoDB` `MySQL`
@@ -39,7 +39,7 @@ an NLP-powered project involving SBert, text preprocessing, boilerplate removal,
 `Git` `GitHub` `Docker` `Jenkins` `Linux` `VS Code`
 
 **AI / ML:**  
-`NumPy` `Pandas` `Scikit-learn`
+`NumPy` `Scikit-learn`
 
 ---
 
