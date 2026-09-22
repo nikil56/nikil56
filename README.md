@@ -96,18 +96,6 @@ Currently deep-diving into **Fact-Based Comparison of News Articles Across Media
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikil56&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikil56&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikil56&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
-</div>
 
 ---
 
