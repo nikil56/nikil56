@@ -40,7 +40,7 @@ passions: [Scalable System Architecture, Cloud Automation, Clean Code, Data Inte
 location: Kerala, India 📍
 ```
 
-> **Final-year B.Tech IT student** with hands-on experience spanning full-stack web development, containerized cloud infrastructure, and modern DevOps practices. Passionate about building robust systems that bridge the gap between intelligent algorithms and automated, zero-downtime deployments.
+> **B.Tech IT student** with hands-on experience spanning full-stack web development, containerized cloud infrastructure, and modern DevOps practices. Passionate about building robust systems that bridge the gap between intelligent algorithms and automated, zero-downtime deployments.
 
 ---
 
